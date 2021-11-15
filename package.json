@@ -1,0 +1,23 @@
+{
+  "name": "event-twitch-stats",
+  "version": "1.0.0",
+  "description": "Retrieves twitch statistics for all the streamers participating in a certain event (LAN, tournament...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sididi/Event-twitch-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sididi/Event-twitch-stats/issues"
+  },
+  "homepage": "https://github.com/Sididi/Event-twitch-stats#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
